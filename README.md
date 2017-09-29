@@ -1,0 +1,2 @@
+# harus
+file.js
